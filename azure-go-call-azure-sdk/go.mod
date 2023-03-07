@@ -10,5 +10,5 @@ require (
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/pulumi/pulumi-azure-native/sdk v1.53.0
 	github.com/pulumi/pulumi/sdk/v3 v3.20.0
-	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
